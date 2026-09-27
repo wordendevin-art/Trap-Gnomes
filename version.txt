@@ -1,2 +1,3 @@
-1.4.0
+1.4.1
 Gnome Customization, keybinds, smoother menu, ragdoll fix
+sha256=2cea3e2f63ed71e5ba6cb052dbc3c25d12a97ec5db37c48561aa8615b57cbcf4
