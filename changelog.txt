@@ -8,12 +8,15 @@
 # Start a line with [Customer], [Admin] or [Owner] (after the + * -) to show it only
 # to that role and up. Untagged lines are shown to everyone. The tag is never displayed.
 
+## 1.4.2
++ [Customer] God Mode is now available to Customers (it was Admin only)
+* Small fixes and clean-up
+
 ## 1.4.1
 + Automatic updates: new versions download and install themselves and start at your next launch (turn it off in the Info tab)
 + ADMIN tag: players with the Admin role get their own blue ADMIN tag above their gnome, seen by every mod user
 * [Admin] No Clip: you can no longer get ragdolled or dragged under the map while flying through walls
-* Hulk Mode and Gnome Size: your hands grab and hold things again at any size
-* [Customer] Hulk Mode: punches, boxing gloves, bats, pickaxes and branches now knock out the human and other creatures in one hit
+* [Customer] Gnome Size: your hands grab and hold things again at any size
 * [Admin] Host > Debug: tasks show their real names, and completing one counts it properly (deposit and end-of-day list)
 * [Admin] The end-of-day task list no longer comes up empty
 * Big FPS boost: the mod no longer repeats expensive game lookups every frame
@@ -22,11 +25,10 @@
 + The Free Version now works without a key - a license key unlocks Customer or Admin (Info tab > Enter license key)
 + Gnome Customization: recolour your gnome with a live preview you can spin - everyone gets palette colours and 3 presets
 + [Customer] Customer and up: fine-tune sliders, Solid / Rainbow / Glow, and your outfit split into Hat, Robe, Sleeves and Belt and Boots to colour one by one, plus 9 Presets
-+ Items tab: colour each piece of equipment on its own, with the item shown in the preview
-+ Gnome Size slider (50-200%) - your camera follows your gnome's height in first and third person - your hitbox grows and shrinks with it
-+ [Customer] Hulk Mode (Mods section, Customer and up): a huge, muscular, green gnome with God Mode, extra speed, super strength (right-click push) and a hold-Jump Hulk leap
-+ Customization saves as you go - no Save button (Hulk Mode starts off each launch)
-+ Players running the mod see each other's gnome looks, size, Hulk Mode and Middle Finger, live
++ [Customer] Items tab: colour each piece of equipment on its own, with the item shown in the preview
++ [Customer] Gnome Size slider (50-200%) - your camera follows your gnome's height in first and third person - your hitbox grows and shrinks with it
++ Customization saves as you go - no Save button
++ Players running the mod see each other's gnome looks, size and Middle Finger, live
 + [Admin] Spectator Mode (Player tab): watch your teammates with a free-look third-person camera (or through their eyes), with their name, health and what they carry on screen - your gnome hides from everyone while you watch
 + Keybinds for the menu and every mod your role can use (Menu Settings > Keybinds)
 + [Customer] ESP tab with NPC and Item ESP, plus Box and Bones options

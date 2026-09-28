@@ -34,9 +34,9 @@ Everyone starts on the Free Version. Keys are handed out by the owner and unlock
 
 | Role | What you get |
 |------|--------------|
-| **Free Version** (no key) | FOV, Third Person, Performance Mode, On-Screen Info, Middle Finger, Spectator Mode, basic Gnome Customization, player list, keybinds |
-| **Customer** | the above + Infinite Stamina, Unbreakable Limbs, Silent Movement, Immunity, NPC/Item ESP, full Gnome Customization (items, effects, Size, Hulk Mode) |
-| **Admin** | everything (God Mode, Speed, No Clip, Moon Boots, Player ESP/Info, Player Inventory ESP, Teleport, spawners, Host tools) |
+| **Free Version** (no key) | FOV, Third Person, Performance Mode, Middle Finger, basic Gnome Customization, player list, keybinds |
+| **Customer** | the above + God Mode, Infinite Stamina, Unbreakable Limbs, Silent Movement, Immunity, NPC/Item ESP, On-Screen Info, full Gnome Customization (items, effects, Size) |
+| **Admin** | everything (Speed, No Clip, Moon Boots, Spectator Mode, Player ESP/Info, Player Inventory ESP, Teleport, spawners, Host tools) |
 
 If a feature shows `[Admin]` or `[Customer]` next to it and is greyed out, your key's role
 doesn't include it yet — ask the owner about an upgrade.
@@ -69,12 +69,8 @@ and saves straight away — there's no Save button.
   item on its own, in its current colours; colour each of its parts separately.
 - **Effects:** fine-tune with hue/saturation/brightness, or make a part **Solid**, **Rainbow** or **Glow**.
 - **Size** (50–200%) makes your gnome grow or shrink, and your camera moves with your gnome's head
-  in first and third person. It's cosmetic: your hitbox and speed stay the same.
-- **Mods → Hulk Mode:** a huge, muscular, green gnome — everyone in your lobby with the mod sees
-  it. While it's on you also get **God Mode**, faster walking and running, **super strength**
-  (hold **right mouse** on something to grab and push it — it moves 4× harder) and the **Hulk leap**
-  — hold Jump to charge, let go to launch. A quick tap is still a normal jump. Hulk Mode starts off each
-  time you launch the game; your colours and size are kept.
+  in first and third person. Your hitbox grows and shrinks with it. Size starts at 100% each
+  time you launch the game; your colours are kept.
 - Your view stays as it is — first or third person — while you customize.
 - The middle shows your gnome live. Drag it (or use **Spin**) to see it from every side; scroll to zoom.
 - **Undo changes** puts back how it looked when you opened the window. **Custom look: ON/OFF**
@@ -85,10 +81,10 @@ and saves straight away — there's no Save button.
 | Palette colours on clothes, skin, beard | ✓ | ✓ |
 | Presets | 3 | all 9 |
 | Fine-tune sliders, Solid / Rainbow / Glow, clothes areas | | ✓ |
-| Items tab, Size, Hulk Mode (with its powers) | | ✓ |
+| Items tab, Size | | ✓ |
 
-**Who sees it:** everyone in your lobby who also has the mod sees your look — colours, size,
-Hulk Mode and your Middle Finger — on your gnome, and you see theirs, live as you edit. It only ever
+**Who sees it:** everyone in your lobby who also has the mod sees your look — colours, size
+and your Middle Finger — on your gnome, and you see theirs, live as you edit. It only ever
 changes the gnome of the person who set it. Players without the mod see the normal gnome.
 
 ---
