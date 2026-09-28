@@ -1,4 +1,4 @@
-# Trap Gnomes V1
+# Trap Gnomes
 
 A private mod menu for Burglin' Gnomes. The **Free Version** needs no key; a license key from
 the owner unlocks the stronger mods.
