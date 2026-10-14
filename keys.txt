@@ -8,7 +8,7 @@
 #             (blank or anything else = Free Version)
 #   binding = optional code from the in-game Owner tab; locks the key to one Steam account
 # Revoke a key by deleting its line. Key #N in your private file is the Nth line below.
-cd71fcd9e09ac3cb177c5b123d11705a73a042c278a415501fbdd83065436eee|Customer|
+cd71fcd9e09ac3cb177c5b123d11705a73a042c278a415501fbdd83065436eee|Admin|
 ee7a56101926e085db164004c5d26d37271b4ff89047dd9e8e946c43e231dc52|Customer|
 0be1157326e590f422dd3ce4edee91363728746d1aef6f3135fce16545cad094|Customer|
 8a7fc75bc80dae1aec2d54ce8ef213a777eb77e2f0aaec33f9fcacb9413053ec|Customer|
