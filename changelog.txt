@@ -8,6 +8,9 @@
 # Start a line with [Customer], [Admin] or [Owner] (after the + * -) to show it only
 # to that role and up. Untagged lines are shown to everyone. The tag is never displayed.
 
+## 1.4.3
+* The mod now uses the new repo address (Trap-Gnomes) for keys, updates and the changelog
+
 ## 1.4.2
 + [Customer] God Mode is now available to Customers (it was Admin only)
 * Small fixes and clean-up
