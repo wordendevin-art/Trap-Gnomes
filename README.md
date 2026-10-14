@@ -10,16 +10,30 @@ from the owner unlocks the stronger mods.
 
 ## Install
 
-You need the game with **BepInEx 5** already installed.
+### Easiest: Full Install (recommended if you've never modded the game)
 
-1. Download **`GnomeCheats.dll`** from the [latest release](../../releases/latest).
-2. Put it in your game's `BepInEx\plugins` folder:
-   ```
-   Steam\steamapps\common\Burglin' Gnomes\BepInEx\plugins\
-   ```
-3. Start the game and press **F1** to open the menu. It opens on the **Free Version** - no key needed.
-4. Got a key? Go to **Info tab → Enter license key**, paste it and click **Activate**.
+1. Download **`Trap-Gnomes-Full-Install.zip`** from the [latest release](../../releases/latest).
+   It already has BepInEx (the mod loader) and the mod inside.
+2. In Steam, right-click **Burglin' Gnomes → Manage → Browse local files**.
+3. Extract **everything** from the zip into that folder. `winhttp.dll`, `doorstop_config.ini` and the
+   `BepInEx` folder must end up right next to `Gnomium.exe` - not in a subfolder.
+4. Start the game. A **Welcome** card pops up for a few seconds - that means it worked.
+   Press **F1** to open the menu. It opens on the **Free Version** - no key needed.
+5. Got a key? Go to **Info tab → Enter license key**, paste it and click **Activate**.
    You only do this once - it's remembered after that.
+
+### Already have BepInEx 5?
+
+Just download **`GnomeCheats.dll`** from the [latest release](../../releases/latest) and put it in
+`Steam\steamapps\common\Burglin' Gnomes\BepInEx\plugins\`, then follow steps 4-5 above.
+
+### No Welcome card?
+
+- **Downloaded v1.4.3?** That version doesn't start. Get the latest release by hand once.
+- `winhttp.dll` must be next to `Gnomium.exe`. If you have no `BepInEx\LogOutput.log` after starting
+  the game, BepInEx isn't running - use the Full Install zip.
+- Your antivirus may have removed `winhttp.dll` or `GnomeCheats.dll` - restore it / add an exception.
+- Still stuck? Send `BepInEx\LogOutput.log` to the owner.
 
 You only install once. After that the mod **updates itself** (see [Updates](#updates)).
 
@@ -115,7 +129,7 @@ runs from your next launch. Nothing changes in the middle of a game.
   You'll get an **Update available** notice with a **Download** button instead. Grab the new
   `GnomeCheats.dll` from the [releases page](../../releases/latest) and replace the old one in
   your `plugins` folder.
-- On **v1.4.0 or older**? Those versions can't update themselves. Download the
+- On **v1.4.0 or older, or v1.4.3**? Those versions can't update themselves. Download the
   [latest release](../../releases/latest) by hand once - after that it's automatic.
 
 ---
