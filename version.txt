@@ -1,3 +1,3 @@
-1.4.3
-Uses the new repo address (Trap-Gnomes)
-sha256=dc3705c9b441c8918834d20499c3433c6879e5379c3ddaca38e4b3dd41f8025b
+1.4.4
+Fixes the mod not starting for v1.4.3 downloads
+sha256=a86e3154f3a3fe5c931d5664b076eda718bc30845910ad35c02e8f037db148ef
